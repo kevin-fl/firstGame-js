@@ -27,7 +27,7 @@ let verification = setInterval(function(){
 
 },1)
 
-
+//perfect
 
 // ln 21 a 24 = si les pixels left sont entre 0 et 20 , et que le perso est a 150 px (entre 0 et 150) , ca veut dire qu il est
 // ds la zone et donc le perso est touché . 
